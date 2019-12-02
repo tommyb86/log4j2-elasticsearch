@@ -10,7 +10,7 @@ This is a parent project for log4j2 appender plugins capable of pushing logs in 
 Latest released code (1.3.x) is available [here](https://github.com/rfoltyns/log4j2-elasticsearch/tree/1.3).
 
 Project consists of:
-* `log4j-elasticsearch-core` - skeleton provider for conrete implementations
+* `log4j-elasticsearch-core` - skeleton provider for concrete implementations
 * `log4j2-elasticsearch-hc` - optimized Apache Async HTTP client compatible with Elasticsearch 2.x, 5.x, 6.x and 7.x clusters
 * `log4j-elasticsearch-jest` - [Jest HTTP Client](https://github.com/searchbox-io/Jest) compatible with Elasticsearch 2.x, 5.x, 6.x and 7.x clusters
 * `log4j-elasticsearch2-bulkprocessor` - [TCP client](https://www.elastic.co/guide/en/elasticsearch/client/java-api/2.4/java-docs-bulk-processor.html) compatible with 2.x clusters
